@@ -1,4 +1,4 @@
-	import React from 'react'
+import React from 'react'
 
 // import Ingredients from './components/Ingredients/Ingredients'
 import WeatherApp from './components/WeatherApp/WeatherApp'
